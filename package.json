@@ -1,0 +1,12 @@
+{
+  "name": "believe",
+  "version": "0.0.1",
+  "description": "Believe your js",
+  "keywords": [
+    "css3",
+    "animation",
+    "engine"
+  ],
+  "main": "believe.js",
+  "repository": "git@github.com:fritx/believe.git"
+}

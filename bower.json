@@ -1,0 +1,21 @@
+{
+  "name": "believe",
+  "version": "0.0.1",
+  "description": "Believe your js",
+  "keywords": [
+    "css3",
+    "animation",
+    "engine"
+  ],
+  "main": "believe.js",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1"
+  },
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "demo",
+    "package.json"
+  ]
+}
