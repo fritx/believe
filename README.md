@@ -4,6 +4,8 @@ Believe your js
 
 > Css3 Animation Engine
 
+Demo: <http://fritx.github.io/believe/demo>
+
 ## Usage
 
 ```js
